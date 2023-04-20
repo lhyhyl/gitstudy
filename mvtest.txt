@@ -1,1 +1,2 @@
 this is a test.now I am going to take some changes .I love small apple.
+now I am going to check merge feature.
